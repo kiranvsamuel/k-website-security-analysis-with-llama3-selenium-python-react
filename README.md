@@ -59,7 +59,7 @@ Run the Flask API
 4. Start the development server: npm start 
 Usage
 1. Access the web interface at http://localhost:3000
-2. Enter a URL to analyze (e.g., https://example.com)
+2. Enter a URL to analyze (e.g., www.nytimes.com)
 3. View the comprehensive security report including:
     * Detected trackers and scripts
     * Cookie analysis
